@@ -1,0 +1,17 @@
+{
+  "name": "puppet-sample",
+  "version": "1.0.0",
+  "description": "Sample service using Puppeteer and serverless chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Nodejs",
+    "Serverless",
+    "Chrome"
+  ],
+  "author": "Ernest Offiong",
+  "license": "MIT"
+}
