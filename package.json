@@ -13,5 +13,8 @@
     "Chrome"
   ],
   "author": "Ernest Offiong",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  }
 }
