@@ -4,6 +4,7 @@
   "description": "Sample service using Puppeteer and serverless chrome",
   "main": "index.js",
   "scripts": {
+    "p": "git push origin master",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
