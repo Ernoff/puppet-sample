@@ -1,3 +1,4 @@
 node_modules/
 *.png
-cred.js
+images/
+config/cred.js

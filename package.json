@@ -15,7 +15,12 @@
   ],
   "author": "Ernest Offiong",
   "license": "MIT",
+  "engines": {
+    "node": "8.0.0",
+    "npm": "5.4.2"
+  },
   "dependencies": {
+    "mongoose": "^4.13.4",
     "puppeteer": "^0.13.0"
   }
 }
